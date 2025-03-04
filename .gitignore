@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+/.next/
+
+# Editor and IDE files
+.idea/
+out/
+
+# System files
+.DS_Store
