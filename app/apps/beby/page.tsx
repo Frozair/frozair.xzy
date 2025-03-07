@@ -174,7 +174,7 @@ export default function BebyPage() {
             </p>
             <div className="flex justify-center gap-4">
               <Link
-                href="/legal/privacy-policy"
+                href="/apps/beby/privacy-policy"
                 className="inline-flex items-center px-6 py-3 rounded-full bg-secondary hover:bg-secondary/80 transition-colors"
               >
                 Privacy Policy
